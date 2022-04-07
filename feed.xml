@@ -3,12 +3,32 @@
     <title>Khian</title>
     <link href="https://shiangs7.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://shiangs7.github.io/gh-pages" />
-    <updated>2022-04-08T01:40:06+08:00</updated>
+    <updated>2022-04-08T01:42:30+08:00</updated>
     <author>
         <name>Khian</name>
     </author>
     <id>https://shiangs7.github.io/gh-pages</id>
 
+    <entry>
+        <title>🍊</title>
+        <author>
+            <name>Khian</name>
+        </author>
+        <link href="https://shiangs7.github.io/gh-pages/-2.html"/>
+        <id>https://shiangs7.github.io/gh-pages/-2.html</id>
+
+        <updated>2022-04-08T01:42:30+08:00</updated>
+            <summary>
+                <![CDATA[
+                    /
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>/</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>🍊</title>
         <author>
